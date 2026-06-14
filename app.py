@@ -32,16 +32,7 @@ def fetch_poster(movie_title):
         pass
 
     return "https://via.placeholder.com/300x450?text=No+Poster"
-# -------------------------
-# Load Model
-# -------------------------
 
-
-
-
-# -------------------------
-# Page Config
-# -------------------------
 st.set_page_config(
     page_title="ReelNexus AI",
     page_icon="🎬",
